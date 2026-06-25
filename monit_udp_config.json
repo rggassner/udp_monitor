@@ -1,0 +1,9 @@
+{
+    "state_file": "udp_stats_state.json",
+    "smtp_server": "mxserver.com",
+    "email_from": "youremail@yourdomain.com",
+    "email_to": [
+        "youremail@yourdomain.com"
+    ],
+    "subject_prefix": "UDP Alert"
+}
